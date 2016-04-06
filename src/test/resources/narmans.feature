@@ -6,7 +6,7 @@ Feature: New supplier adding
   I want to Add new supplier
   So that i can get more supplies
   sudhakar
-
+//testing
   Background:
     Given I am navigavitive to the Narmans web page
     And I enter the username and password
@@ -28,4 +28,5 @@ Feature: New supplier adding
     Given I am goto buyers and enter the details
     When I am check new buyers
     Then I am logout my accounts
+
 
